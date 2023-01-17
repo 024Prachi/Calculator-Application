@@ -1,0 +1,24 @@
+{
+  "name": "calculator-application",
+  "version": "1.0.0",
+  "description": "This is an calculattor app created using javasript",
+  "main": " index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/024Prachi/Calculator-Application.git"
+  },
+  "author": "Prachi Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/024Prachi/Calculator-Application/issues"
+  },
+  "homepage": "https://github.com/024Prachi/Calculator-Application#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
